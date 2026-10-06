@@ -10,7 +10,7 @@
 - 🔗 LinkedIn: https://www.linkedin.com/in/milan-thummar-25b54223/
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milanthummar&show_icons=true&hide_border=true" alt="GitHub commit stats for milanthummar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=milanthummar&show_icons=true&hide_border=true&commits_year=2026" alt="GitHub commit stats for milanthummar in 2026" />
 </p>
 
 <p align="center">
